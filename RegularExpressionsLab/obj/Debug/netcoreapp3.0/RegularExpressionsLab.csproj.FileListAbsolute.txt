@@ -1,0 +1,11 @@
+C:\Users\Prophesy\Documents\C#2019\RegularExpressionsLab\RegularExpressionsLab\bin\Debug\netcoreapp3.0\RegularExpressionsLab.exe
+C:\Users\Prophesy\Documents\C#2019\RegularExpressionsLab\RegularExpressionsLab\bin\Debug\netcoreapp3.0\RegularExpressionsLab.deps.json
+C:\Users\Prophesy\Documents\C#2019\RegularExpressionsLab\RegularExpressionsLab\bin\Debug\netcoreapp3.0\RegularExpressionsLab.runtimeconfig.json
+C:\Users\Prophesy\Documents\C#2019\RegularExpressionsLab\RegularExpressionsLab\bin\Debug\netcoreapp3.0\RegularExpressionsLab.runtimeconfig.dev.json
+C:\Users\Prophesy\Documents\C#2019\RegularExpressionsLab\RegularExpressionsLab\bin\Debug\netcoreapp3.0\RegularExpressionsLab.dll
+C:\Users\Prophesy\Documents\C#2019\RegularExpressionsLab\RegularExpressionsLab\bin\Debug\netcoreapp3.0\RegularExpressionsLab.pdb
+C:\Users\Prophesy\Documents\C#2019\RegularExpressionsLab\RegularExpressionsLab\obj\Debug\netcoreapp3.0\RegularExpressionsLab.csprojAssemblyReference.cache
+C:\Users\Prophesy\Documents\C#2019\RegularExpressionsLab\RegularExpressionsLab\obj\Debug\netcoreapp3.0\RegularExpressionsLab.AssemblyInfoInputs.cache
+C:\Users\Prophesy\Documents\C#2019\RegularExpressionsLab\RegularExpressionsLab\obj\Debug\netcoreapp3.0\RegularExpressionsLab.AssemblyInfo.cs
+C:\Users\Prophesy\Documents\C#2019\RegularExpressionsLab\RegularExpressionsLab\obj\Debug\netcoreapp3.0\RegularExpressionsLab.dll
+C:\Users\Prophesy\Documents\C#2019\RegularExpressionsLab\RegularExpressionsLab\obj\Debug\netcoreapp3.0\RegularExpressionsLab.pdb
